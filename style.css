@@ -1,0 +1,36 @@
+header{
+    background-color: green;
+    padding: 0px 25px;
+   
+}
+
+img{
+    weight: 120px;
+    height: 120px;
+    padding: 10px 25px;
+    margin: 15px;
+}
+
+a{
+    text-decoration:none;
+    color: black;
+}
+.opo{
+    weight: 150px;
+    height: 270px;
+    
+}
+
+.rifa{
+    background-color: lightgreen;
+    border-radius: 15px;
+}
+
+.you{
+    height: 18px;
+    padding: 5px 150px;
+}
+
+.tak{
+    height: 25px;
+}
